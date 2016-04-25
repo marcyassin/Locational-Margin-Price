@@ -1,2 +1,4 @@
 # Locational-Margin-Price
-hi
+
+The purpose of this tool is to acquire the top 5 daily locational margin prices provided from the ISO New England website. 
+The script runs on any terminal or command line using bash. The script is set to run at specific times using crontab.
